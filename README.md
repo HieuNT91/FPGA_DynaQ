@@ -16,6 +16,10 @@ Our design contains 3 main parts:
 - Environment block.
 - Training block.
 - Q-table Block.
+
+
+<img src="report/example.png" align="middle" width="500"/>
+
 ## Video Demonstration
 See video demo at: [Drive](https://drive.google.com/file/d/1g09FqitMydQldYfyPaarD5OEChjlGh0d/view?usp=sharing)
 
