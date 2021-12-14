@@ -1,7 +1,7 @@
 # FPGA_DynaQ
-a FPGA design of Dyna-Q Algorithm. LSI design Contest 2021.
+a FPGA design of Dyna-Q Algorithm. [LSI design Contest 2021](http://www.lsi-contest.com/2021/index_e.html).
 
-We demonstrate Dyna-Q algorithm in a simple maze search problem.
+We demonstrate our design in [a simple maze search problem](http://www.lsi-contest.com/2021/shiyou_4e.html).
 
 ## Dyna-Q Algorithm
 
